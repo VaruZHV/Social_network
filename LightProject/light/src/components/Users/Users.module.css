@@ -1,0 +1,33 @@
+.users{
+    color: white;
+    width: 76.5%;
+    margin: 0.7%;
+    padding: 1rem 0;
+    border-radius: 8px;
+    background-color: #00bcd4;
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.17) !important;
+    display: flex;
+    flex-direction: column;
+}
+.pagination_parent{
+    width:100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
+.pagination{
+    width: auto;
+    padding: 0.4rem 0;
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.17) !important;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+}
+.page,.selected_page{
+    font-size: 1.5rem;
+    margin: 0 1vw;
+}
+.selected_page{
+    font-size: 1.8rem;
+}

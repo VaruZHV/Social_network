@@ -1,0 +1,204 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "Followed": false,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/User_Circle.png",
+      "Fullname": "serjik a",
+      "status": "hzor",
+      "location": {
+        "country": "Armenia",
+        "city": "yerevan"
+      }
+    },
+    {
+      "id": 1,
+      "Followed": false,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/User_Circle.png",
+      "Fullname": "hrantik b",
+      "status": "hzor",
+      "location": {
+        "country": "Armenia",
+        "city": "yerevan"
+      }
+    },
+    {
+      "id": 2,
+      "Followed": true,
+      "photo": "/avatars/4a21303b0b0eda31c788e82e42f1b010.jpeg",
+      "Fullname": "hrantik b67",
+      "status": "hzor",
+      "location": {
+        "country": "Armenia67i",
+        "city": "yerevan67i"
+      },
+      "isOwner": false
+    },
+    {
+      "id": 3,
+      "Followed": false,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/User_Circle.png",
+      "Fullname": "serjik d",
+      "status": "hzor",
+      "location": {
+        "country": "Armenia",
+        "city": "yerevan"
+      }
+    },
+    {
+      "id": 4,
+      "Followed": true,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/User_Circle.png",
+      "Fullname": "hrantik e",
+      "status": "hzor",
+      "location": {
+        "country": "Armenia",
+        "city": "yerevan"
+      }
+    },
+    {
+      "id": 5,
+      "Followed": true,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/User_Circle.png",
+      "Fullname": "varujik f",
+      "status": "lav-txa",
+      "location": {
+        "country": "Armenia",
+        "city": "yerevan"
+      }
+    },
+    {
+      "id": 6,
+      "Followed": false,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/User_Circle.png",
+      "Fullname": "serjik g",
+      "status": "hzor",
+      "location": {
+        "country": "Armenia",
+        "city": "yerevan"
+      }
+    },
+    {
+      "id": 7,
+      "Followed": true,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/User_Circle.png",
+      "Fullname": "hrantik h",
+      "status": "hzor",
+      "location": {
+        "country": "Armenia",
+        "city": "yerevan"
+      }
+    },
+    {
+      "id": 8,
+      "Followed": true,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/User_Circle.png",
+      "Fullname": "varujik j",
+      "status": "lav-txa",
+      "location": {
+        "country": "Armenia",
+        "city": "yerevan"
+      }
+    },
+    {
+      "id": 9,
+      "Followed": false,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/User_Circle.png",
+      "Fullname": "serjik k",
+      "status": "hzor",
+      "location": {
+        "country": "Armenia",
+        "city": "yerevan"
+      }
+    },
+    {
+      "id": 10,
+      "Followed": true,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/User_Circle.png",
+      "Fullname": "hrantik l",
+      "status": "hzor",
+      "location": {
+        "country": "Armenia",
+        "city": "yerevan"
+      }
+    },
+    {
+      "id": 11,
+      "Followed": true,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/User_Circle.png",
+      "Fullname": "varujik m",
+      "status": "lav-txa",
+      "location": {
+        "country": "Armenia",
+        "city": "yerevan"
+      }
+    },
+    {
+      "id": 12,
+      "Followed": false,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/User_Circle.png",
+      "Fullname": "serjik o",
+      "status": "hzor",
+      "location": {
+        "country": "Armenia",
+        "city": "yerevan"
+      }
+    },
+    {
+      "id": 13,
+      "Followed": true,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/User_Circle.png",
+      "Fullname": "hrantik n",
+      "status": "hzor",
+      "location": {
+        "country": "Armenia",
+        "city": "yerevan"
+      }
+    },
+    {
+      "id": 14,
+      "Followed": true,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/User_Circle.png",
+      "Fullname": "varujik q",
+      "status": "lav-txa",
+      "location": {
+        "country": "Armenia",
+        "city": "yerevan"
+      }
+    },
+    {
+      "id": 15,
+      "Followed": false,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/User_Circle.png",
+      "Fullname": "serjik r",
+      "status": "hzor",
+      "location": {
+        "country": "Armenia",
+        "city": "yerevan"
+      }
+    },
+    {
+      "id": 16,
+      "Followed": true,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/User_Circle.png",
+      "Fullname": "hrantik s",
+      "status": "hzor",
+      "location": {
+        "country": "Armenia",
+        "city": "yerevan"
+      }
+    },
+    {
+      "id": 17,
+      "Followed": true,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/User_Circle.png",
+      "Fullname": "varujik t",
+      "status": "lav-txa",
+      "location": {
+        "country": "Armenia",
+        "city": "yerevan"
+      }
+    }
+  ],
+  "totalCount": 18
+}
